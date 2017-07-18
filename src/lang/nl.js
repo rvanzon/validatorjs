@@ -3,7 +3,7 @@ module.exports = {
   after: ':attribute moet een datum zijn na :after.',
   after_or_equal: ':attribute moet een datum zijn gelijk of na :after_or_equal.',
   alpha: ':attribute mag alleen letters bevatten.',
-  alpha_dash: ':attribute mag alleen letters, nummers, and strepen bevatten.',
+  alpha_dash: ':attribute mag alleen letters, nummers, en strepen bevatten.',
   alpha_num: ':attribute mag alleen letters en nummers bevatten.',
   before: ':attribute moet een datum zijn eerder dan :date.',
   before_or_equal: ':attribute moet een datum zijn gelijk of eerder :after_or_equal.',
